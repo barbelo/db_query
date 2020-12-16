@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ef266e2-ccce-45d7-a5af-4477172cd941" name="Default Changelist" comment="finish fundamental table" />
+    <list default="true" id="4ef266e2-ccce-45d7-a5af-4477172cd941" name="Default Changelist" comment="finish fundamental table">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5cf062df-06a6-45ae-8fe6-c0f022a286c6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5cf062df-06a6-45ae-8fe6-c0f022a286c6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5cf062df-06a6-45ae-8fe6-c0f022a286c6/storage_v2/_src_/schema/query.yBhvBg.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5cf062df-06a6-45ae-8fe6-c0f022a286c6/storage_v2/_src_/schema/query.yBhvBg.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
