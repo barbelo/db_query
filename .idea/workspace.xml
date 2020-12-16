@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ef266e2-ccce-45d7-a5af-4477172cd941" name="Default Changelist" comment="" />
+    <list default="true" id="4ef266e2-ccce-45d7-a5af-4477172cd941" name="Default Changelist" comment="finish fundamental table" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +18,7 @@
     </colors>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ljBlNdfnvElp8PTAGvR2RGvBpv" />
@@ -33,4 +34,8 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish fundamental table" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish fundamental table" />
+  </component>
 </project>
